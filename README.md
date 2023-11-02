@@ -24,7 +24,6 @@
 
 ```
 ├── README.md
-
 ├── environment.yml // conda environment setup file
 ├── cmd // scripts for controlling simulation environment execution and simulation processes
 	├── kill.sh // Script for terminating running simulation processes
